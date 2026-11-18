@@ -1,0 +1,3 @@
+# Eval set files are hashed byte-for-byte (eval_set_sha): never convert their line endings.
+src/data/eval/*.jsonl -text
+src/data/eval/*.json -text
